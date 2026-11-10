@@ -1,0 +1,35 @@
+
+# Projet : Analyse des avis clients McDonald's - NLP
+# Master 1 MLSD - Analyse et restitution
+# Silina Herzallah & Mehdi El Gourche
+#
+# Bibliothèques nécessaires au projet
+# Environnement : Google Colab
+
+# Manipulation des données
+pandas
+numpy
+
+# Visualisation des données
+matplotlib
+seaborn
+
+# Machine Learning classique
+# TF-IDF, régression logistique, K-means et évaluation
+scikit-learn
+
+# Prétraitement des textes
+nltk
+
+# Modèles Transformers : DistilBERT
+transformers
+datasets
+accelerate
+torch
+
+# Évaluation des modèles
+evaluate
+
+# Tableau de bord interactif
+streamlit
+plotly
