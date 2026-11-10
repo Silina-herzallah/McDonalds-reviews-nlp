@@ -12,7 +12,7 @@ Cette organisation pourra évoluer en fonction des besoins et de l'avancement af
 
 | Date | Contributeur(s) | Travail réalisé |
 |---|---|---|
-| 10/11/2026 | Silina & Mehdi | Cadrage du projet, choix du dataset McDonald's et définition de la méthodologie |
+| 10/11/2026 | Silina & Mehdi | Cadrage du projet, choix du dataset McDonald's et définition de la méthodologie. + création des différents espaces demandés. |
 
 ## Prochaines étapes
 
